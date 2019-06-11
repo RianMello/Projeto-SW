@@ -1,0 +1,27 @@
+.card-panel{
+    border-radius: 15px;
+    box-shadow:0 0 8px 2px #A6A6A6;
+}
+html, body, main {
+    height: 100%;
+    width: 100%;
+}
+
+.collection {
+    box-shadow: 0 0 8px 2px #A6A6A6;
+    border-radius: 15px;
+    color:#00400D;
+}
+body{
+    background-color: #E9CAB2;
+    color: #00400D; 
+}
+#img{
+    height: 400px;
+    width: 1200px;
+    padding-left: 500px;
+    padding-top: 0px;
+}
+.section{
+    padding-top: 0px !important;
+}
